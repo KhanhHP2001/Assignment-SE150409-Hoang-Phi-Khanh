@@ -13,11 +13,13 @@
     "react-dom": "^18.2.0",
     "react-popper": "^2.3.0",
     "react-redux": "^8.0.2",
+    "react-redux-form": "^1.16.8",
     "react-router-dom": "^4.2.2",
     "react-scripts": "5.0.1",
     "reactstrap": "^9.1.1",
     "redux": "^3.7.2",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "yarm": "^0.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
